@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded squircle badge center -->
+    <path
+        android:fillColor="#FF2E3D"
+        android:pathData="M32,32 C32,26.4 36.4,22 42,22 L66,22 C71.6,22 76,26.4 76,32 L76,56 C76,61.6 71.6,66 66,66 L42,66 C36.4,66 32,61.6 32,56 Z" />
+    
+    <!-- Play arrow inside the red squircle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,34 L64,44 L48,54 Z" />
+
+    <!-- Blue Facebook-styled corner badge -->
+    <path
+        android:fillColor="#1877F2"
+        android:pathData="M60,54 C60,50.7 62.7,48 66,48 L80,48 C83.3,48 86,50.7 86,54 L86,68 C86,71.3 83.3,74 80,74 L66,74 C62.7,74 60,71.3 60,68 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,52 L78,52 L78,56 L75,56 C74.2,56 74,56.5 74,57.2 L74,59 L78,59 L77.4,63 L74,63 L74,72 L70,72 L70,63 L67,63 L67,59 L70,59 L70,56 C70,53.5 71.5,52 75,52 Z" />
+
+    <!-- Green WhatsApp upload & report indicator badge -->
+    <path
+        android:fillColor="#25D366"
+        android:pathData="M22,54 C22,50.7 24.7,48 28,48 L42,48 C45.3,48 48,50.7 48,54 L48,68 C48,71.3 45.3,74 42,74 L28,74 C24.7,74 22,71.3 22,68 Z" />
+    <!-- Upload Arrow inside green badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,53 L41,60 L37.5,60 L37.5,68 L32.5,68 L32.5,60 L29,60 Z" />
+
+    <!-- Automation lightning / sync loop pill at bottom -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,72 L64,72 C66.2,72 68,73.8 68,76 C68,78.2 66.2,80 64,80 L44,80 C41.8,80 40,78.2 40,76 C40,73.8 41.8,72 44,72 Z" />
+    <!-- Clock / schedule dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,76 A2,2 0 1,0 48,76.01 Z M54,76 A2,2 0 1,0 54,76.01 Z M60,76 A2,2 0 1,0 60,76.01 Z" />
+</vector>

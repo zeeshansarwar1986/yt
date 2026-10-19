@@ -1,0 +1,6 @@
+{
+  "name": "AutoPoster",
+  "description": "Schedule & auto-upload videos to YouTube and Facebook Page with automated WhatsApp reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
